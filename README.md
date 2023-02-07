@@ -1,5 +1,5 @@
 <img src="Logo.png" alt="Logo" width="50%">
-#Projet
+# Projet
 Jeu de sudoku en React, développer comme projet final du cours de POO2. De plus, notre équipe avait pour défi de développer en respectant les différentes contraintes de la programmation immuable.
 
 # Rapport de projet
